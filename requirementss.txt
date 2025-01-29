@@ -1,0 +1,21 @@
+opencv-contrib-python
+opencv-python
+streamlit
+streamlit-modal
+streamlit-option-menu
+text2emotion
+textblob
+nltk
+fer
+flair
+requests
+requests-oauthlib
+plotly
+Pillow
+asyncio
+#opencv-contrib-python==4.5.5.64
+# opencv-python==4.5.5.64
+opencv-python-headless
+tensorflow
+sacremoses
+emoji
